@@ -1,4 +1,4 @@
-# 메딕 프로젝트
+# 프로젝트 Plup
 
 ## Repo Merge(Pull request) 규칙
 
