@@ -1,6 +1,6 @@
 # 프로젝트 Plup
 
-## 김경환
+## 김경환 [GitHub](https://github.com/KyungHwanKim-devs) / [Blog](https://kkhdevs.oopy.io/)
 
 ### 앱 전체의 아키텍쳐 계획 및 구성
  - [최초 빠른 initialize를 위한 구성 및 계획](https://kkhdevs.oopy.io/362c77df-a5ed-468c-8d33-2668ad699c68)
