@@ -1,11 +1,9 @@
 # 프로젝트 Plup
 
-## Repo Merge(Pull request) 규칙
-
-- 브랜치 명은 지라 이슈의 번호를 포함한다.(지라와 깃헙의 연동을 위함)
-- 3인 이상의 Approve 가 있어야 Merge 할 수 있다.
-
 ## 김경환
+
+### 앱 전체의 아키텍쳐 계획 및 구성
+ - [최초 빠른 initialize를 위한 구성 및 계획](https://kkhdevs.oopy.io/362c77df-a5ed-468c-8d33-2668ad699c68)
 
 ## 김한규
 
